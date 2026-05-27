@@ -8,10 +8,10 @@ Descripción del Dataset: Se utilizó la base de datos proporcionada por el doce
 el trabajo práctico con datos como por ejemplo: productos enumerados, fecha de venta y precios.
 
 Instrucciones básicas para ejecutar el Script:
-* Subir las ventas.cvs
-* Realizar el Código para que, a partir de los datos obtenidos de la lista CVS se pueda obtener:
+* Subir las ventas.CSV
+* Realizar el Código para que, a partir de los datos obtenidos de la lista CSV se pueda obtener:
  ventas totales, productos más vendidos y ventas por mes.
-*
+
 
 
 
